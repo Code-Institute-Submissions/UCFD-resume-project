@@ -1,5 +1,43 @@
-a:link {
-  text-decoration: none;
+
+/*--------------------------------------------Footer*/
+
+footer {
+    background-color: #84F0DF;
+    min-height: none;
+    margin: 0;
 }
 
+footer a:link {
+  text-decoration: none;
+  color: #808080;
+  font-size: 14px;
+  position: relative;
+  padding-bottom: 7px;
+  
+}
+
+footer a:hover {
+  color: hotpink;
+}
+
+.social-links {
+    padding: 30px;
+    margin-left: 40px;
+    max-width: 100%;
+    height: auto;
+}
+
+.social-links li a i {
+    padding-right: 30px;
+    font-size: 30px;
+    color: #808080;
+}
+
+.social-links a i:hover {
+    color: hotpink;
+}
+
+#footer-details {
+    padding: 10px;
+}
 
