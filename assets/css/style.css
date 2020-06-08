@@ -8,29 +8,28 @@ footer {
 }
 
 footer a:link {
-  text-decoration: none;
-  color: #808080;
-  font-size: 14px;
-  position: relative;
-  padding-bottom: 7px;
+    text-decoration: none;
+    color: #808080;
+    font-size: 14px;
+    position: relative;
+    padding-bottom: 7px;
   
 }
 
 footer a:hover {
-  color: hotpink;
+    color: hotpink;
 }
 
 .social-links {
-    padding: 30px;
-    margin-left: 40px;
     max-width: 100%;
     height: auto;
 }
 
 .social-links li a i {
-    padding-right: 30px;
     font-size: 30px;
     color: #808080;
+    padding: 30px 20px 0px 10px;
+
 }
 
 .social-links a i:hover {
@@ -40,4 +39,3 @@ footer a:hover {
 #footer-details {
     padding: 10px;
 }
-
