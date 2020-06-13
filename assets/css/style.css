@@ -1,7 +1,7 @@
 
 /*--------------------------------------------Colors*/
 
-div {
+body {
     background-color: #84F0DF;
 }
 
@@ -96,6 +96,20 @@ progress {
 
 /*--------------------------------------------Contact Form*/
 
+/*.contact-heading {
+    padding: 20px;
+}
+
+
+
+/*.contact-map {
+    padding: 0 30px 0 100px;
+}
+
+.contact-form {
+    padding: 10px 100px 0 30px;
+}
+/*
 /*--------------------------------------------Media Queries*/
 
 
