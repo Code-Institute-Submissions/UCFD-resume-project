@@ -82,6 +82,12 @@ progress {
 
 /*--------------------------------------------Media Queries*/
 
+@media(min-width: 1025px) {
+    .about-me-text {
+        padding-right: 150px;
+    }
+}
+
 /*--------------------------------------------Footer*/
 
 footer {
