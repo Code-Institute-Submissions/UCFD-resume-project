@@ -40,7 +40,6 @@ body {
     left: 2.5em;
     top: 3em;
     display: block;
-    font-family:;
     font-weight: 500;
     font-size: 0.8em;
     padding: 0;
@@ -77,7 +76,6 @@ body {
 
 footer {
     background-color: #84F0DF;
-    min-height: none;
     margin: 0;
 }
 
