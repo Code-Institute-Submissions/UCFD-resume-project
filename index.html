@@ -36,8 +36,9 @@
     </header>
     
 
-    <section class="container-fluid">                  
-        <div class="row pt-5 m-1" id="home">
+    <section>           
+        <div class="container-fluid">       
+            <div class="row pt-5 m-1" id="home">
                     <div class="col-sm-12 col-md-5 align-self-center">
                         <div class="media float-md-right">
                             <div class="d-sm-block">
@@ -58,13 +59,14 @@
                                 </div>
                             </div>
                     </div>
-
-        </div>  
+            </div>
+        </div>
     </section>
 
 
-    <section class="container-fluid">
-        <div class="row" id="resume">
+    <section>
+        <div class="container-fluid">
+            <div class="row" id="resume">
             <div class="col-md-4 section-column pl-5">
                 <div class="row">
                     <div class="col-12">
@@ -123,32 +125,33 @@
                 </div>
                 </div>
             </div>
+            </div>
         </div>
     </section>
 
 
-    <section class="container-fluid">
-            <h3 class="contact-heading text-uppercase text-center p-3">Contact</h3>
-        <div class="row" id="contact">
-            <div class="col-md-6 px-5">
-                <iframe width="400" height="400" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.07967233657836915%2C51.544740396437376%2C-0.07066011428833009%2C51.549290676759156&amp;layer=mapnik&amp;marker=51.547012550373886%2C-0.07516269999996439" style="border: 1px solid black"></iframe>
-            </div>
+    <section>
+        <div class="container-fluid">
+                <h3 class="contact-heading text-uppercase text-center p-3">Contact</h3>
+            <div class="row" id="contact">
+                <div class="col-md-6 px-5">
+                    <iframe width="100%" height="400" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.07967233657836915%2C51.544740396437376%2C-0.07066011428833009%2C51.549290676759156&amp;layer=mapnik&amp;marker=51.547012550373886%2C-0.07516269999996439" style="border: 1px solid black"></iframe>
+                </div>
             
-            <div class="col-md-6 px-5">
-                    <h5 class="text-uppercase text-center p-3">How can I help?</h5>                                                                     
+                <div class="col-md-6 px-5 pt-3">
+                    <h5 class="text-uppercase text-center pb-2">How can I help?</h5>                                                                     
                     <form>
-                        <input type="text" name="name" id="fullname" class="form-control" placeholder="Name" required/>
-                        <input type="email" name="email" id="emailaddress" class="form-control" placeholder="Email" required/>
-                        <textarea rows="1" name="subject" id="subject" class="form-control" placeholder="Subject" required></textarea>
-                        <br/>
-                        <textarea rows="5" name="message" id="message" class="form-control" placeholder="Message" required></textarea>
+                        <input type="text" name="name" id="fullname" class="form-control mb-1" placeholder="Name" required/>
+                        <input type="email" name="email" id="emailaddress" class="form-control mb-1" placeholder="Email" required/>
+                        <textarea rows="1" name="subject" id="subject" class="form-control mb-3" placeholder="Subject" required></textarea>
+                        <textarea rows="5" name="message" id="message" class="form-control mb-1" placeholder="Message" required></textarea>
                         <div class="form-row text-center">
                             <div class="col">
-                                <br/>
-                                <button type="submit" class="btn btn-outline-dark">Send message</button>
+                                <button type="submit" class="btn btn-outline-dark mt-3">Send message</button>
                             </div>
                         </div>
                     </form>
+                </div>
             </div>  
         </div>
     </section>
