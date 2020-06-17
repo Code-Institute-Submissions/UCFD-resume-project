@@ -1,11 +1,11 @@
-/* Colors */
+/* ------- Colors ------- */
 
 body {
     background-color: #84F0DF;
     position: relative;
 }
 
-/* Navbar */
+/* ------- Navbar ------- */
 
 .sticky {
   position: fixed;
@@ -15,7 +15,7 @@ body {
   background: #84F0DF;
 }
 
-/* Work History (Reference: From previous UCD-resume project) */
+/* ------- Work History (Reference: From previous UCD-resume project) ------- */
 
 .history-heading {
     color: #000000;
@@ -62,22 +62,21 @@ body {
     margin-bottom: 30px;
 }
 
-/* Resume Portfolio */
+/* ------- Resume Portfolio ------- */
 
 .desktop-icon {
-    
     font-size: 36px;
     color: #7A7A7A;
 }
 
-/* Contact Map */
+/* ------- Contact Map ------- */
 
 .contact-map {
     width: 100%;
     height: 400px;
 }
 
-/* Media Queries */
+/* ------- Media Queries ------- */
 
 @media(min-width: 1025px) {
     .about-me-text {
@@ -85,7 +84,7 @@ body {
     }
 }
 
-/* Footer */
+/* ------- Footer ------- */
 
 footer {
     background-color: #84F0DF;
@@ -98,7 +97,6 @@ footer a:link {
     font-size: 14px;
     position: relative;
     padding-bottom: 7px;
-  
 }
 
 footer a:hover {
@@ -114,7 +112,6 @@ footer a:hover {
     font-size: 30px;
     color: #000000;
     padding: 30px 20px 0px 10px;
-
 }
 
 .social-links a i:hover {
