@@ -126,7 +126,7 @@ To cut ties with this GitHub repository, type `git remote rm origin` into the te
 
 ### Content
 
--   All content was written by the developer, unless stated over wise.
+-   All content was written by the developer, unless stated otherwise.
 
 ### Media
 
