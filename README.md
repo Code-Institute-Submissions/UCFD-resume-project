@@ -82,7 +82,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   #### First Time Visitor Goals
 
-    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the individual.
+    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the individual. 
 
         1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a profile image with a small blurb and a Download CV and Contact, call to action buttons.
         2. The user has two options, click the call to action buttons or scroll down, both of which will lead to the same place, to learn more about the individual.
