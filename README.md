@@ -82,17 +82,17 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   #### First Time Visitor Goals
 
-    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the individual. 
+    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the individual. - [View](https://github.com/anronuay/UCFD-resume-project/blob/master/assets/images/home.page-screenshot.png)
 
         1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a profile image with a small blurb and a Download CV and Contact, call to action buttons.
         2. The user has two options, click the call to action buttons or scroll down, both of which will lead to the same place, to learn more about the individual.
 
-    2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
+    2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content. - [View](https://github.com/anronuay/UCFD-resume-project/blob/master/assets/images/resume.page-screenshot.png)
 
         1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes the page they will end up at clearly.
         2. At the bottom of the first 3 pages there is a redirection call to action to ensure the user always has somewhere to go and doesn't feel trapped as they get to the bottom of the page.
 
-    3. As a First Time Visitor, I want to look through their portfolio to understand what their skillset and personality is and if they are competent. I also want to locate their social media links to see their content on social media to determine how trusted and known they are. 
+    3. As a First Time Visitor, I want to look through their portfolio to understand what their skillset and personality is and if they are competent. I also want to locate their social media links to see their content on social media to determine how trusted and known they are. - [View](https://github.com/anronuay/UCFD-resume-project/blob/master/assets/images/contact.page-screenshot.png)
 
 	    1. Once the new visitor has read the about me and resume, they will notice the contact section.
         2. The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
