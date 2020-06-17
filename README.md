@@ -1,4 +1,4 @@
-<h1 align="center">Norna Yau Portfolio</h1>
+# Norna Yau Portfolio
 
 **Code Institute - User Centric Frontend Development Milestone Project**
 
@@ -69,7 +69,7 @@ A live demo can be found [here](https://anronuay.github.io/UCFD-resume-project/)
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/anronuay/UCFD-resume-project/tree/master/wireframes) during the design process.
 1. [WebAIM:](https://webaim.org/resources/contrastchecker/)
-    - Contrast checker, relevant in terms of accessibility and UX experience.
+    - Contrast checker, relevant in terms of accessibility and UX design.
 
 ## Testing
 
@@ -89,10 +89,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
     2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
 
-        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
+        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes the page they will end up at clearly.
         2. At the bottom of the first 3 pages there is a redirection call to action to ensure the user always has somewhere to go and doesn't feel trapped as they get to the bottom of the page.
 
-    3. As a First Time Visitor, I want to look through their portfolio to understand what their skillset and personality is and if they are competent. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are. 
+    3. As a First Time Visitor, I want to look through their portfolio to understand what their skillset and personality is and if they are competent. I also want to locate their social media links to see their content on social media to determine how trusted and known they are. 
 
 	    1. Once the new visitor has read the about me and resume, they will notice the contact section.
         2. The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
@@ -108,7 +108,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ### Known Bugs
 
 -   On some mobile devices some of the Resume sub headings are slightly out of center alignment.
--   Some spacing of elememts is noticable due to the responsive nature of the website, due to the sticky navbar.
+-   Some spacing of elememts is noticable due to the responsive nature of the website and the sticky navbar.
 
 ## Deployment
 This site is hosted using GitHub pages, deployed directly from the master branch. The deployed site will update automatically upon new commits to the master branch. In order for the site to deploy correctly on GitHub pages, the landing page must be named `index.html`.
