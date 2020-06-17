@@ -64,6 +64,10 @@ body {
 
 /* ------- Resume Portfolio ------- */
 
+.portfolio-card {
+    width: 100%;
+}
+
 .desktop-icon {
     font-size: 36px;
     color: #7A7A7A;
