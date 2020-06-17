@@ -6,7 +6,7 @@ Code Institute - User Centric Frontend Development Milestone Project
 
 A portfolio website to present to prospective employers, demonstrating my skill set as a Frontend Developer. Designed to be responsive and accessible on a range of devices, making it easy to navigate for potential employers.
 
-<h2 align="center"><img src=“assets/image/desktop.website.png”></h2>
+<h2 align="center"><img src="assets/image/desktop.website.png"></h2>
 
 ## User Experience (UX)
 
